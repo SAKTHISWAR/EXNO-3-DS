@@ -228,8 +228,8 @@ plt.show()
 ```
 
 ![Screenshot 2024-03-26 165117](https://github.com/gokulapriya632202/EXNO-3-DS/assets/119560302/c6b4c14b-1d8d-4802-9651-1cc7cb3a610f)
-
+```
 
 # RESULT:
-       Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
+ Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
        
