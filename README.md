@@ -33,7 +33,9 @@ We use this categorical data encoding technique when the features are nominal(do
 # CODING AND OUTPUT:
 ### Name : SAKTHISWAR S
 ### Ref No : 212222230127
-```
+
+```python
+
 import pandas as pd
 df=pd.read_csv("/content/Encoding Data.csv")
 df
@@ -228,8 +230,8 @@ plt.show()
 ```
 
 ![Screenshot 2024-03-26 165117](https://github.com/gokulapriya632202/EXNO-3-DS/assets/119560302/c6b4c14b-1d8d-4802-9651-1cc7cb3a610f)
-```
 
-# RESULT:
- Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
+
+## RESULT:
+Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
        
